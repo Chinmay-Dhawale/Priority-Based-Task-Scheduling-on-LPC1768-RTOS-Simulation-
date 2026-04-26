@@ -42,7 +42,7 @@
   * Drives stepper motor in sequence.
 
  ##  Block Diagram
-![](media/blockdiagram.png)
+![](blockdiagram.jpeg)
 
 
 ## Scheduling Algorithm
