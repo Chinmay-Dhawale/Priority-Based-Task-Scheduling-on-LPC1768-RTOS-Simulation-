@@ -108,19 +108,19 @@
 * The project successfully demonstrates an RTOS-like scheduler using LPC1768.
 * It provides practical understanding of task scheduling and multitasking.
 * It builds a strong foundation for advanced RTOS-based embedded system design.
-  ## 📜 License
+  ## License
 
 This project is licensed under the *MIT License*.
 
 ---
 
-## 🙌 Acknowledgment
+##  Acknowledgment
 
 Developed as part of *Machine Learning / Deep Learning Project*  
 KLE Technological University
 
 ---
 
-## ⭐ Support
+##  Support
 
-If you like this project, give it a ⭐ on GitHub!
+If you like this project, give it a like on GitHub!
